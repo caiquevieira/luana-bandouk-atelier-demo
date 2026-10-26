@@ -1,0 +1,22 @@
+# Luana Bandouk Atelier
+
+> Ateliê de vestidos de noiva em R. Prof. Astolfo Tavares Pais, 143 - Cidade São Francisco, São Paulo - SP, 05352-070. Locação, venda e criação de vestidos de noiva exclusivos, com consultoria e atendimento visagista. Atendimento pelo WhatsApp (11) 96020-7771.
+
+## Dados do negócio
+
+- Endereço: R. Prof. Astolfo Tavares Pais, 143 - Cidade São Francisco, São Paulo - SP, 05352-070
+- Horário: Seg a sex, 10h às 19h; sáb, 9h às 16h
+- WhatsApp: (11) 96020-7771 (https://wa.me/5511960207771)
+- Instagram: https://www.instagram.com/luanabandouk_atelier/
+
+## Serviços
+
+- Locação de vestidos de noiva
+- Venda de vestidos de noiva
+- Criação de vestidos de noiva exclusivos
+- Consultoria e atendimento visagista
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)
